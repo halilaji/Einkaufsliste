@@ -1,7 +1,7 @@
 # Einkaufsliste
 ###Praktikum SEOS
 
-				#Lebenslauf
+#Lebenslauf
 
 **Name** 						 Ilirian Halilaj
 
@@ -14,17 +14,18 @@
 **Familienstand**				 Ledig
 
 **Adresse**						 
-								 < Vogt-Dufner Straße 3
+Vogt-Dufner Straße 3
 
-								 < 78120 Furtwangen
+78120 Furtwangen
 								
-**Hobbies**						 < Tanzen, Musik, Zocken
+**Hobbies**						  
+Tanzen, Musik, Zocken
 
 **Sprachen**					 
-								 Albanisch *(Muttersprache)*
+ Albanisch *(Muttersprache)*
 
-								 Deutsch *(fließend)*
-								
-								 Englisch*(nahezu fließend)*
-								
-								 Französisch *(Grundkenntnisse)*
+ Deutsch *(fließend)*
+
+ Englisch*(nahezu fließend)*
+
+ Französisch *(Grundkenntnisse)*
