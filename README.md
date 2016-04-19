@@ -13,13 +13,15 @@
 
 **Familienstand**				 Ledig
 
-**Adresse**						 Vogt-Dufner Straße 3
+**Adresse**						 
+								 Vogt-Dufner Straße 3
 
 								 78120 Furtwangen
 								
 **Hobbies**						 Tanzen, Musik, Zocken
 
-**Sprachen**					 Albanisch *(Muttersprache)*
+**Sprachen**					 
+								 Albanisch *(Muttersprache)*
 
 								 Deutsch *(fließend)*
 								
