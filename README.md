@@ -3,6 +3,8 @@
 
 #Lebenslauf
 
+!(http://screenrant.com/wp-content/uploads/legend-zelda-netflix-tv-series.jpg "LINK")
+
 **Name** 						 Ilirian Halilaj
 
 **Geburtsdatum**				 12.09.1994
